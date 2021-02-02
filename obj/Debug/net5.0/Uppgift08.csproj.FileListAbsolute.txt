@@ -1,0 +1,16 @@
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\bin\Debug\net5.0\Uppgift08.exe
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\bin\Debug\net5.0\Uppgift08.deps.json
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\bin\Debug\net5.0\Uppgift08.runtimeconfig.json
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\bin\Debug\net5.0\Uppgift08.runtimeconfig.dev.json
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\bin\Debug\net5.0\Uppgift08.dll
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\bin\Debug\net5.0\ref\Uppgift08.dll
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\bin\Debug\net5.0\Uppgift08.pdb
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\obj\Debug\net5.0\Uppgift08.csprojAssemblyReference.cache
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\obj\Debug\net5.0\Uppgift08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\obj\Debug\net5.0\Uppgift08.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\obj\Debug\net5.0\Uppgift08.AssemblyInfo.cs
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\obj\Debug\net5.0\Uppgift08.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\obj\Debug\net5.0\Uppgift08.dll
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\obj\Debug\net5.0\ref\Uppgift08.dll
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\obj\Debug\net5.0\Uppgift08.pdb
+C:\Users\andre\Documents\ObjektProgram\Uppgift08\obj\Debug\net5.0\Uppgift08.genruntimeconfig.cache
