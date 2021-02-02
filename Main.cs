@@ -11,7 +11,7 @@ namespace Uppgift08
             if (File.Exists("ShoppingList.txt"))
             {
                 Console.WriteLine("A shopping list currently exists.");
-                shoppinglist.DisplayList();
+                // shoppinglist.DisplayList();
                 Console.WriteLine("\nDo you wish to start a new one and replace this? Y/N");
                 string choice = Console.ReadLine();
                 if (choice == "Y" || choice == "y") { File.WriteAllLines(@"ShoppingList.txt", shoppinglist.shoppingList); }
@@ -38,32 +38,32 @@ namespace Uppgift08
                         bread01.Menu();
                         break;
                     case 2:
-                        ColonialGoods colonial01 = new ColonialGoods();
-                        colonial01.Menu();
-                        break;
-                    case 3:
-                        Dairy dairy01 = new Dairy();
-                        dairy01.Menu();
-                        break;
-                    case 4:
-                        FrozenGoods frozen01 = new FrozenGoods();
-                        frozen01.Menu();
-                        break;
-                    case 5:
-                        MeatAndFish meatFish01 = new MeatAndFish();
-                        meatFish01.Menu();
-                        break;
-                    case 6:
-                        Miscellaneous misc01 = new Miscellaneous();
-                        misc01.Menu();
-                        break;
-                    case 7:
-                        Vegetables vegetable01 = new Vegetables();
-                        vegetable01.Menu();
-                        break;
-                    case 8:
-                        list.DisplayList();
-                        break;
+                    //     ColonialGoods colonial01 = new ColonialGoods();
+                    //     colonial01.Menu();
+                    //     break;
+                    // case 3:
+                    //     Dairy dairy01 = new Dairy();
+                    //     dairy01.Menu();
+                    //     break;
+                    // case 4:
+                    //     FrozenGoods frozen01 = new FrozenGoods();
+                    //     frozen01.Menu();
+                    //     break;
+                    // case 5:
+                    //     MeatAndFish meatFish01 = new MeatAndFish();
+                    //     meatFish01.Menu();
+                    //     break;
+                    // case 6:
+                    //     Miscellaneous misc01 = new Miscellaneous();
+                    //     misc01.Menu();
+                    //     break;
+                    // case 7:
+                    //     Vegetables vegetable01 = new Vegetables();
+                    //     vegetable01.Menu();
+                    //     break;
+                    // case 8:
+                    //     list.DisplayList();
+                    //     break;
                     case 9:
                         list.ClearList();
                         break;
